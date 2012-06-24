@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[$ cd /home/dinghaifeng && ls]]></title>
+  <link href="http://dinghaifeng.github.com/atom.xml" rel="self"/>
+  <link href="http://dinghaifeng.github.com/"/>
+  <updated>2012-06-25T00:29:30+08:00</updated>
+  <id>http://dinghaifeng.github.com/</id>
+  <author>
+    <name><![CDATA[dinghaifeng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress!]]></title>
+    <link href="http://dinghaifeng.github.com/blog/2012/06/25/hello-world/"/>
+    <updated>2012-06-25T00:07:00+08:00</updated>
+    <id>http://dinghaifeng.github.com/blog/2012/06/25/hello-world</id>
+    <content type="html"><![CDATA[<p>Octopress无论setup还是写作的api比Jekyll Bootstrap更友好些. Worth a try.</p>
+]]></content>
+  </entry>
+  
+</feed>
