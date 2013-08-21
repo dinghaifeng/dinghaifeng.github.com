@@ -17,4 +17,3 @@ title: My technical stuffs and ramblings
 * [paper-reading](notes/paper-reading.html)
 
 
-#### Translations
